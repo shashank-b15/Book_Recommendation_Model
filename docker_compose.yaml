@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+    postgres:
+        image: 'pgvector/pgvector:pg16'
+        restart: always
+        environment:
+          - POSTGRES_USER=postgres
+          - POSTGRES_PASSWORD=ManiAnu@12345
+          - POSTGRES_DB=postgres
+        volumes:
+          - C:\postgres_vector\data:/var/lib/postgresql/data
+        ports:
+          - '5439:5432'
