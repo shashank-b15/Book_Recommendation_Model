@@ -5,7 +5,7 @@ The dataset for our research work is Kaggle Amazon Kindle-reviews data set which
 ## Project Type:
 Custom Project which is a recommendation system on the kindle dataset which was provided in the Final project description
 Github
-Project Link: https://github.com/ManikantaGWUID/Review2Rec
+Project Link: https://github.com/shashank-b15/book-recommendation-project
 
 | Name | User Name |
 | ------ | ----------- |
